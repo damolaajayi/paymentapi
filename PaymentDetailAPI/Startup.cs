@@ -1,11 +1,15 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using PaymentDetails.AppService.PaymentDetailsAppService;
+using PaymentDetails.Repo.PaymentDetails.Repository;
+using PaymentDetails.Repo.RepoDbContext;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,6 +35,12 @@ namespace PaymentDetailAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PaymentDetailAPI", Version = "v1" });
             });
+
+            services.AddTransient<IPaymentRepository, PaymentRepository>();
+            services.AddTransient<IPaymentDetailAppService, PaymentDetailAppService>();
+
+            services.AddDbContext<PaymentDetailsDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

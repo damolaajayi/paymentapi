@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.AppService.deps.json
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.AppService.dll
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\ref\PaymentDetails.AppService.dll
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.AppService.pdb
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.Core.dll
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.Repo.dll
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.Repo.pdb
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\bin\Debug\net5.0\PaymentDetails.Core.pdb
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.AssemblyInfo.cs
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.csproj.CopyComplete
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.dll
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\ref\PaymentDetails.AppService.dll
+C:\Users\User\Desktop\Payment_API\PaymentDetails.ApplicationService\PaymentDetails.AppService\obj\Debug\net5.0\PaymentDetails.AppService.pdb
